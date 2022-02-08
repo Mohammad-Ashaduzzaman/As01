@@ -16,7 +16,7 @@ h1{
     border-left: tomato solid 5px;
     padding: 2%;
 }
-#YearHighLight{
+.YearHighLight{
     color:#ffad5a;
 }
 #Moto{
@@ -43,4 +43,36 @@ h1{
 }
 .general-paragrapgh{
     margin-top: 1.5rem;
+}
+
+#Mission22{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 900;
+    text-align: center;
+}
+
+.width-onethird{
+
+}
+.img-fifty{
+
+}
+.Cards-heading{
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+}
+#Mission-cards{
+
+}
+
+#Mission-Card{
+
+}
+
+#Vission-Card{
+
+}
+
+#Goals-Card{
+
 }
