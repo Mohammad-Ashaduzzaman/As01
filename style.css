@@ -4,6 +4,9 @@ body{
     font-family: 'Raleway', sans-serif;
     line-height: 1.5rem;
 }
+p{
+    line-height: 2;
+}
 #topsection{
     width: 80%;
     margin: auto;
@@ -19,14 +22,17 @@ h1{
 }
 #top-heading{
     border-left: tomato solid 5px;
+    border-radius: 5px;
     padding: 2%;
+    line-height: 3.5rem;
 }
 .YearHighLight{
     color:#ffad5a;
 }
 #Moto{
-    font-size: 1.5rem;
+    font-size: 1.1rem;
     font-style: italic;
+    line-height: 0.2rem;
 }
 .half-width{
     width: 50%;
@@ -72,7 +78,8 @@ h1{
 }
 .Cards-heading{
     font-family: 'Raleway', sans-serif;
-    font-weight: bold;
+    font-weight: 900;
+    font-size: 1.5rem;
 }
 
 
