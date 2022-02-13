@@ -188,6 +188,7 @@ h1{
     width: 80%;
     align-items: center;
     margin: auto;
+    border-radius: 15px;
 }
 .App-section{
     margin-top: 7%;
